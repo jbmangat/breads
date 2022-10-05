@@ -1,8 +1,8 @@
 const React = require("react");
 
 function Default(html) {
-    console.log("------");
-    console.log(html);
+    // console.log("------");
+    // console.log(html);
     return (
         <html>
         <head>
